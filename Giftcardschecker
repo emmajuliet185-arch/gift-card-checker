@@ -1,0 +1,11 @@
+gift-card-checker/
+│
+├── app/
+│   ├── page.js
+│   └── api/
+│       └── send/
+│           └── route.js
+│
+├── package.json
+├── next.config.js
+├── tailwind.config.js
